@@ -3,7 +3,7 @@ Soy ingeniero eléctrico, aunque hace tiempo que pienso que hubiera tenido que e
 
 Actualmente trabajo como consultor de ERP (no, SAP no) y me dedico sobretodo a la parte funcional, aunque también hago parte de las programaciones personalizadas para mi cartera de clientes. Mi objetivo es poder aplicar la programación en el sector industrial, creando nuevos productos, donde pueda participar tanto en su desarrollo como en la implementación posterior. 
 
-Sin ser tópico, me encanta la tecnología y....
+Sin ser tópico, me encanta la tecnología y.... \n
   🎮 Videojuegos
   📽  Películas (frikis jaja)
   📚 Fantasía 
