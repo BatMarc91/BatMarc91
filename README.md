@@ -1,5 +1,5 @@
 👋 Hola! Mi nombre es Marc, BatMarc para los amigos más frikis.
-Soy ingeniero eléctrico, aunque hace tiempo que pienso que hubiera tenido que estudiar la ingenieria informático y por eso estoy aquí. Mi principal prioridad es poder aprender Python como hobby principalmente, aunque que con la esperenza de poder aplicarlo algún día en mi vida profesional.
+Soy ingeniero eléctrico, aunque hace tiempo que pienso que hubiera tenido que estudiar la ingenieria informático y por eso estoy aquí. Mi principal prioridad es poder aprender Python como hobby principalmente, aunque que con la esperenza de poder aplicarlo algún día en mi vida profesional, ya sea como programador web o trabajando en inteligencia artificial y machine learning.
 
 Actualmente trabajo como consultor de ERP (no, SAP no) y me dedico sobretodo a la parte funcional, aunque también hago parte de las programaciones personalizadas para mi cartera de clientes. Mi objetivo es poder aplicar la programación en el sector industrial, creando nuevos productos, donde pueda participar tanto en su desarrollo como en la implementación posterior. 
 
@@ -7,7 +7,7 @@ Sin ser tópico, me encanta la tecnología y....
 
   🎮 Videojuegos
   
-  📽  Películas (frikis jaja)
+  📽  Películas
   
   📚 Fantasía 
   
