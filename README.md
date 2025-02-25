@@ -63,9 +63,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marquitos15)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=marquitos15)&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=BatMarc91" alt="Layout with last medium posts"  />
 </div>
 
 ###
